@@ -1,0 +1,1 @@
+There is two way data binding in ember.
